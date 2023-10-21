@@ -1,5 +1,7 @@
-# Folders
-./node_modules
+# https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring
 
-# Files
+# Carpetas a ignorar
+node_modules/
+
+# Archivos a ignorar
 yarn.lock
