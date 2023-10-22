@@ -1,7 +1,10 @@
-# https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring
+#* https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring
 
-# Carpetas a ignorar
+#! Carpetas a ignorar
 node_modules/
 
-# Archivos a ignorar
-/yarn.lock
+#! Archivos a ignorar
+yarn.lock
+
+#? Acerca de las ramas protegidas
+#? https://docs.github.com/es/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches
