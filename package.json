@@ -5,6 +5,7 @@
   "type": "module",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "^8.52.0",
     "typescript": "5.2.2"
   }
 }
