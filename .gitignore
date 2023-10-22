@@ -4,4 +4,4 @@
 node_modules/
 
 # Archivos a ignorar
-yarn.lock
+/yarn.lock
