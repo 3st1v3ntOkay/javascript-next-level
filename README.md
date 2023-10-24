@@ -1,3 +1,3 @@
-# Here start my travel to PRO in JavaScript
+# PRO of JavaScript 🫴🏻🔥 
 
-Here I will upload important code that can be useful.
+Here I will upload my progress with JavaScript to Pro.
