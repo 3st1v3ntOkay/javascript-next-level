@@ -11,9 +11,13 @@ To see what I'm doing, first clone this repository, and after installing the dep
 ```
 
 ```bash
-  yarn install
-  # or
   pnpm install
-  # or
+```
+
+```bash
+  yarn install
+```
+
+```bash
   npm install
 ```
