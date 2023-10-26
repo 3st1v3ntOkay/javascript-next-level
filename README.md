@@ -10,6 +10,8 @@ To see what I'm doing, first clone this repository, and after installing the dep
   git clone https://github.com/3st1v3ntOkay/javascript-next-level.git
 ```
 
+Just choose one:
+
 ```bash
   pnpm install
 ```
