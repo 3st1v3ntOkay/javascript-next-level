@@ -1,5 +1,5 @@
-# Folders
+# Node
 node_modules/
 
-# Files
-yarn.lock
+# pnpm
+pnpm-lock.yaml
