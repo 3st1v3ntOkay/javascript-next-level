@@ -13,13 +13,15 @@ To see what I'm doing, first clone this repository, and after installing the dep
 Just choose one:
 
 ```bash
+  # set your package manager with corepack (a feature of node v^14.19.0)
+  corepack enable
+
+  corepack use pnpm@latest
   pnpm install
-```
-
-```bash
+  # or
+  corepack use yarn@latest
+  # corepack use yarn@stable
+  # corepack use yarn@berry
+  # corepack use yarn@classic
   yarn install
-```
-
-```bash
-  npm install
 ```
