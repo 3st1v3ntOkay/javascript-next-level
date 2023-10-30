@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "dev:class": "node --watch --loader ts-node/esm ./src/class/class.ts",
-    "dev:map": "node --watch --loader ts-node/esm ./src/map/stringifyMap.js"
+    "dev:map": "node --watch --loader ts-node/esm ./src/map/stringifyMap.js",
+    "dev:set": "node --watch --loader ts-node/esm ./src/set/set.js"
   },
   "devDependencies": {
     "eslint": "8.52.0",
