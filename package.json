@@ -8,7 +8,9 @@
     "dev:class": "node --watch --loader ts-node/esm ./src/class/class.ts",
     "dev:map": "node --watch --loader ts-node/esm ./src/map/stringifyMap.js",
     "dev:set": "node --watch --loader ts-node/esm ./src/set/set.js",
-    "dev:intl": "node --watch --loader ts-node/esm ./src/intl/date-time-format.js"
+    "dev:intl": "node --watch --loader ts-node/esm ./src/intl/date-time-format.js",
+    "dev:object": "node --watch --loader ts-node/esm ./src/object/object.js",
+    "dev:function": "node --watch --loader ts-node/esm ./src/function/function.js"
   },
   "devDependencies": {
     "eslint": "8.52.0",
