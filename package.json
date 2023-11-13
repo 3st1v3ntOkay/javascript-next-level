@@ -13,9 +13,9 @@
     "dev:function": "node --watch --loader ts-node/esm ./src/function/function.js"
   },
   "devDependencies": {
-    "eslint": "8.52.0",
+    "eslint": "8.53.0",
     "nodemon": "3.0.1",
-    "typescript": "5.2.2",
-    "ts-node": "10.9.1"
+    "ts-node": "10.9.1",
+    "typescript": "5.2.2"
   }
 }
